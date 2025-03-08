@@ -3,41 +3,6 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
-  <title>Laravel Abstract Repository</title>
-  <style>
-    body {
-      font-family: Arial, sans-serif;
-      line-height: 1.6;
-      margin: 20px;
-      max-width: 800px;
-      color: #333;
-    }
-    h1, h2, h3 {
-      color: #222;
-    }
-    code {
-      background: #f4f4f4;
-      padding: 2px 4px;
-      border-radius: 4px;
-      font-family: Consolas, Monaco, 'Andale Mono', 'Ubuntu Mono', monospace;
-    }
-    pre {
-      background: #f4f4f4;
-      padding: 10px;
-      overflow-x: auto;
-      border-radius: 4px;
-    }
-    ul {
-      margin-left: 20px;
-    }
-    a {
-      color: #0066cc;
-      text-decoration: none;
-    }
-    a:hover {
-      text-decoration: underline;
-    }
-  </style>
 </head>
 <body>
   <h1>Laravel Abstract Repository</h1>
